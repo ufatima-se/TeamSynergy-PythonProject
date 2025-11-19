@@ -18,5 +18,6 @@ while True:
             print(hint_by_me(guess, secret_number))
     play_again = input("Do you want to play again? (y/n): ").lower()
     if play_again != 'y':
-        print("Thanks for playing!")
+        print("Thanks for playing!!!!")
         break
+    #adding a comment 
